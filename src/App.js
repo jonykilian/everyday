@@ -46,6 +46,7 @@ class App extends Component {
         <input type='' placeholder='year' onChange={this.handleInp2}/> <br/>
         <input type='' placeholder='color' onChange={this.handleInp3}/> <br/>
         <button className='kiki' onClick={this.handleQosh}>click</button>
+        
 
         <div>
           {
